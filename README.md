@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Processor chips generate quite a bit of heat, which could cause the chip to burn up.
 Although the computer’s main fan generates airflow, many of today’s personal computer processors require additional cooling.
 Heat sinks/pipes and liquid cooling technologies often are used to help dissipate processor heat.
@@ -10,3 +11,6 @@ electrical components such as a processor.
 Parallel processing is a method that uses
 multiple processors simultaneously to execute
 a single program or task
+=======
+booya
+>>>>>>> history
