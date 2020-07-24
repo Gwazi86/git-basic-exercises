@@ -1,0 +1,96 @@
+    1  git-basic exercises
+    2  ls
+    3  pwd
+    4  ls
+    5  cd/Documents
+    6  la
+    7  la
+    8  ls
+    9  cd Documents
+   10  ls
+   11  mkdir git-basic-exercises
+   12  mkdir pidipidi
+   13  rmdir pidipidi
+   14  ls
+   15  cd git-basic-exercises
+   16  ls
+   17  ls -a
+   18  ls -a
+   19  git init
+   20  ls -a
+   21  git status
+   22  touch README.md
+   23  ls -a
+   24  git status
+   25  git status
+   26  git log
+   27  git add README.md
+   28  git status
+   29  git --cached README.md
+   30  git status
+   31  git rm --cached README.md
+   32  git status
+   33  git add README.md
+   34  git status
+   35  git commit -m "initial commit"
+   36  git config --global user.email andilesylvestermagwaza@gmail.com
+   37  git config --global user.name Gwazi86
+   38  git status
+   39  git commit -m "initial commit"
+   40  git log
+   41  q
+   42  q
+   43  nano README.md
+   44  cat REAEDME.md
+   45  cat README.md
+   46  git status
+   47  git add README.md
+   48  git status
+   49  git commit -m "second commit"
+   50  git status
+   51  git log
+   52  nano README.md
+   53  cat README.md
+   54  git add README.md
+   55  git status
+   56  git commit -m "third commit"
+   57  git log
+   58  q
+   59  git checkout
+   60  298d646486803e6d476901625745719818a844db
+   61  git checkout 298d646486803e6d476901625745719818a844db
+   62  cat README.md
+   63  cat README.md
+   64  git checkout master
+   65  cat README.md
+   66  git branch
+   67  git checkout -b milkshake-flavours
+   68  git branch
+   69  git checkout
+   70  pwd
+   71  git branch
+   72  pwd
+   73  git branch
+   74  git checkout master
+   75  git branch
+   76  git checkout milkshake-flavours
+   77  git branch
+   78  nano milkshakes.md
+   79  cat milkshakes.md
+   80  git stats
+   81  git status
+   82  git add milkshakes.md
+   83  git status
+   84  git commit -m "added initial flavours"
+   85  git log
+   86  git checkout master
+   87  git branch
+   88  git checkout milkshake-flavours
+   89  git branch
+   90  git branch
+   91  git log
+   92  git checkout master
+   93  git branch
+   94  git checkout -b history
+   95  git log
+   96  history > history.txt
