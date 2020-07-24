@@ -5,3 +5,8 @@ Heat sinks/pipes and liquid cooling technologies often are used to help dissipat
 
 A heat sink is a small ceramic or metal component with fins on its surface that absorbs and disperses heat produced by
 electrical components such as a processor.
+
+
+Parallel processing is a method that uses
+multiple processors simultaneously to execute
+a single program or task
